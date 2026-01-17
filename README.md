@@ -38,9 +38,6 @@ VirusTotal API Açari: YOUR_API_KEY
 ```
 The collected IPs will be saved in `ip.txt`.
 
-## Author
-- **SilverX**
-- Telegram: [t.me/silverxvip](https://t.me/silverxvip)
 
 ## Disclaimer
 This tool is intended for educational and research purposes only. Use it responsibly and only on domains you have permission to test.
